@@ -1,6 +1,6 @@
 .titre {
-    color: black;
-    font-weight: bolder;
+    color: white;
+    font-size: 3rem;
 }
 
 
@@ -57,10 +57,13 @@ td {
 
 .icon-red {
     color: red;
+    font-size: 1.5rem;
 }
 
+
 .icon-green {
-    color: green
+    color: green;
+    font-size: 1.5rem;
 }
 
 .test {
@@ -75,5 +78,11 @@ td {
     border-radius: 10rem;
     background-color: #ff9d00;
     text-align: center;
-    margin-top: 5rem;
+    border-top: 8rem;
+}
+foot {
+    size : 10rem;
+}
+.height{
+    height: 5rem
 }
